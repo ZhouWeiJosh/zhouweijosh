@@ -1,13 +1,13 @@
 ### Hi there 👋
 
--Hi, I'm ZhouWeiJosh
--I'm interested in robotics
--I'm currently learning 
--I'm originally from China
--I'm a Freshman in Computer Engineering
--I chose my major because it allows me to do both the hardware and software
--A fun fact about me is: I can solve a rubix cube
--What do I want to learn from EE205? C, C++, and Git
+-Hi, I'm ZhouWeiJosh  
+-I'm interested in robotics  
+-I'm currently learning  
+-I'm originally from China  
+-I'm a Freshman in Computer Engineering  
+-I chose my major because it allows me to do both the hardware and software  
+-A fun fact about me is: I can solve a rubix cube  
+-What do I want to learn from EE205? C, C++, and Git  
 -A book or movie I'd recommend is: Turn Left, Turn Right (2003)
 
 

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--Hi, I'm ZhouWeiJosh  
+-Hi, I'm Joshua
 -I'm interested in robotics  
 -I'm currently learning ROS/Gazebo  
 -I'm originally from China  

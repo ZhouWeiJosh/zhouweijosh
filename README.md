@@ -2,7 +2,7 @@
 
 -Hi, I'm ZhouWeiJosh  
 -I'm interested in robotics  
--I'm currently learning ROS/Gazebo
+-I'm currently learning ROS/Gazebo  
 -I'm originally from China  
 -I'm a Freshman in Computer Engineering  
 -I chose my major because it allows me to do both the hardware and software  

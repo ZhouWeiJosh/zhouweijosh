@@ -3,7 +3,7 @@
 -Hi, I'm Joshua  
 -I'm interested in Robotics  
 -I'm currently learning ROS2/Gazebo  
--I'm a Freshman in Computer Engineering  
+-I'm a Sophomore in Computer Engineering  
 
 
 <!--

@@ -1,9 +1,9 @@
-### Hi there 👋
+### Greetings 👋
 
--Hi, I'm Joshua  
+-I'm Joshua  
 -I'm interested in Robotics  
--I'm currently learning ROS2/Gazebo  
--I'm a Sophomore in Computer Engineering  
+-I'm currently learning about Probablistic Robotics and ROS2  
+-I'm a Junior in Computer Engineering  
 
 
 <!--
